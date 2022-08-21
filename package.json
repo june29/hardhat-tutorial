@@ -1,0 +1,30 @@
+{
+  "name": "hardhat-tutorial",
+  "version": "1.0.0",
+  "description": "Hardhat Tutorial by june29",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/june29/hardhat-tutorial.git"
+  },
+  "keywords": [
+    "ethereum",
+    "solidity",
+    "smart",
+    "contract",
+    "hardhat"
+  ],
+  "author": "june29",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/june29/hardhat-tutorial/issues"
+  },
+  "homepage": "https://github.com/june29/hardhat-tutorial#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.2"
+  }
+}
